@@ -15,6 +15,7 @@ propcache==0.3.2
 py-mon==2.1.0
 pydantic==2.11.5
 pydantic_core==2.33.2
+python-dotenv==1.1.0
 typing-inspection==0.4.1
 typing_extensions==4.14.0
 watchdog==6.0.0
